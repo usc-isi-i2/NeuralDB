@@ -1,4 +1,0 @@
-transformers==4.6.0
-torch
-datasets
-fever-drqa
